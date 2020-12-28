@@ -20,9 +20,9 @@
   "maintainers": [
     "Alexey Litovchenko <alex.lit@outlook.com> (https://alexlit.gitlab.io)"
   ],
-  "main": "prettier.config.js",
+  "main": ".prettierrc.js",
   "files": [
-    "prettier.config.js"
+    ".prettierrc.js"
   ],
   "scripts": {
     "publish": "./scripts/publish.sh",
