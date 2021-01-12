@@ -1,3 +1,12 @@
+# [0.1.0](https://github.com/alex-lit/config-prettier/compare/v0.0.6...v0.1.0) (2021-01-12)
+
+
+### Features
+
+* add pug plugin ([06a5b21](https://github.com/alex-lit/config-prettier/commit/06a5b21db67258e510a6d3c1060b31772b543d7d))
+
+
+
 ## [0.0.6](https://github.com/alex-lit/config-prettier/compare/v0.0.5...v0.0.6) (2021-01-10)
 
 
