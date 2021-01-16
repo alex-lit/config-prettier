@@ -25,6 +25,10 @@
     ".prettierrc.js"
   ],
   "scripts": {
+    "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
+    "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
+    "lint:markdownlint": "./node_modules/@alexlit/lint-kit/scripts/lint.markdownlint.sh",
+    "lint:stylelint": "./node_modules/@alexlit/lint-kit/scripts/lint.stylelint.sh",
     "publish": "./node_modules/@alexlit/lint-kit/scripts/publish.sh",
     "semver": "./node_modules/@alexlit/lint-kit/scripts/semver.sh",
     "up": "./node_modules/@alexlit/lint-kit/scripts/up.sh",
@@ -33,6 +37,7 @@
   "dependencies": {
     "@prettier/plugin-php": "^0.16.1",
     "@prettier/plugin-pug": "^1.13.2",
+    "@prettier/plugin-ruby": "^1.4.0",
     "prettier": "^2.2.1",
     "prettier-plugin-packagejson": "^2.2.9",
     "prettier-plugin-sh": "^0.6.0"
