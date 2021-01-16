@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/alex-lit/config-prettier/compare/v0.2.0...v0.3.0) (2021-01-16)
+
+### Features
+
+- add xml plugin
+  ([dbee926](https://github.com/alex-lit/config-prettier/commit/dbee926852ddb5e5c1900389975ff70c967f9107))
+
 # [0.2.0](https://github.com/alex-lit/config-prettier/compare/v0.1.0...v0.2.0) (2021-01-16)
 
 ### Features
