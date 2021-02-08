@@ -3,5 +3,8 @@ module.exports = {
   singleQuote: true,
   tabWidth: 2,
   trailingComma: 'all',
-  vueIndentScriptAndStyle: true,
+
+  ...require('./plugins/pug.js'),
+  ...require('./plugins/vue.js'),
+  ...require('./plugins/xml.js'),
 };
