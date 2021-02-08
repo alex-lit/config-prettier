@@ -22,7 +22,8 @@
   ],
   "main": ".prettierrc.js",
   "files": [
-    ".prettierrc.js"
+    ".prettierrc.js",
+    "plugins"
   ],
   "scripts": {
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
