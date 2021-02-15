@@ -1,3 +1,10 @@
+# [0.4.0](https://github.com/alex-lit/config-prettier/compare/v0.3.3...v0.4.0) (2021-02-15)
+
+### Features
+
+- **plugin:** add solidity
+  ([c89793b](https://github.com/alex-lit/config-prettier/commit/c89793b87a953dee52ddfb9de9c54a34a2b35018))
+
 ## [0.3.3](https://github.com/alex-lit/config-prettier/compare/v0.3.2...v0.3.3) (2021-02-08)
 
 ### Bug Fixes
