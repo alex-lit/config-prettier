@@ -1,3 +1,10 @@
+# [0.5.0](https://github.com/alex-lit/config-prettier/compare/v0.4.0...v0.5.0) (2021-02-16)
+
+### Features
+
+- **plugin:** add twig
+  ([661a8f1](https://github.com/alex-lit/config-prettier/commit/661a8f193aff04bc60f246d6affcdd748d0de932))
+
 # [0.4.0](https://github.com/alex-lit/config-prettier/compare/v0.3.3...v0.4.0) (2021-02-15)
 
 ### Features
