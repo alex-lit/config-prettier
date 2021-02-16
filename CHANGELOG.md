@@ -1,3 +1,10 @@
+# [0.6.0](https://github.com/alex-lit/config-prettier/compare/v0.5.0...v0.6.0) (2021-02-16)
+
+### Features
+
+- **plugin:** add svelte
+  ([c44a5cb](https://github.com/alex-lit/config-prettier/commit/c44a5cb0d7d86546e01acd1a548ed82f757e2d28))
+
 # [0.5.0](https://github.com/alex-lit/config-prettier/compare/v0.4.0...v0.5.0) (2021-02-16)
 
 ### Features
