@@ -5,6 +5,7 @@ module.exports = {
   trailingComma: 'all',
 
   ...require('./plugins/pug.js'),
+  ...require('./plugins/svelte.js'),
   ...require('./plugins/vue.js'),
   ...require('./plugins/xml.js'),
 };
