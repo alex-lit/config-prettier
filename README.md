@@ -1,12 +1,12 @@
-# Конфигурация Prettier
+# Prettier Configuration
 
-## Установка
+## Installation
 
 ```sh
 npm i @alexlit/config-prettier -D
 ```
 
-## Подключение
+## Connection
 
 ```js
 // .prettierrc.js
