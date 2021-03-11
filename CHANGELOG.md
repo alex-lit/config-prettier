@@ -1,3 +1,10 @@
+# [0.9.0](https://github.com/alex-lit/config-prettier/compare/v0.8.0...v0.9.0) (2021-03-11)
+
+### Features
+
+- **plugin:** add sort-json
+  ([bd36242](https://github.com/alex-lit/config-prettier/commit/bd3624272063b390647149cb2555ddec6a14c33c))
+
 # [0.8.0](https://github.com/alex-lit/config-prettier/compare/v0.7.3...v0.8.0) (2021-03-03)
 
 ## [0.7.3](https://github.com/alex-lit/config-prettier/compare/v0.7.2...v0.7.3) (2021-03-01)
