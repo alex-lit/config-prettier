@@ -14,7 +14,8 @@
 
 <style>
   button {
+    color: red; 
     z-index: 3;
-    color: red;
-  }
+  }  
 </style>
+  
