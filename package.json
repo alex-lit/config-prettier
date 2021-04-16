@@ -44,12 +44,12 @@
     "prettier": "^2.2.1",
     "prettier-plugin-packagejson": "^2.2.10",
     "prettier-plugin-sh": "^0.6.1",
-    "prettier-plugin-solidity": "^1.0.0-beta.8",
+    "prettier-plugin-solidity": "^1.0.0-beta.9",
     "prettier-plugin-sort-json": "^0.0.2",
     "prettier-plugin-svelte": "^2.2.0",
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^5.4.0"
+    "@alexlit/lint-kit": "^5.5.0"
   }
 }
