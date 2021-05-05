@@ -32,6 +32,7 @@
     "lint:markdownlint": "./node_modules/@alexlit/lint-kit/scripts/lint.markdownlint.sh",
     "lint:npmlint": "./node_modules/@alexlit/lint-kit/scripts/lint.npmlint.sh",
     "lint:stylelint": "./node_modules/@alexlit/lint-kit/scripts/lint.stylelint.sh",
+    "postinstall": "./scripts/postinstall.sh",
     "publish": "./node_modules/@alexlit/lint-kit/scripts/publish.sh",
     "semver": "./node_modules/@alexlit/lint-kit/scripts/semver.sh",
     "up": "./node_modules/@alexlit/lint-kit/scripts/up.sh",
@@ -39,11 +40,11 @@
   },
   "dependencies": {
     "@prettier/plugin-php": "^0.16.2",
-    "@prettier/plugin-pug": "^1.14.0",
+    "@prettier/plugin-pug": "^1.15.0",
     "@prettier/plugin-ruby": "^1.5.5",
     "@prettier/plugin-xml": "^0.13.1",
     "prettier": "^2.2.1",
-    "prettier-plugin-packagejson": "^2.2.10",
+    "prettier-plugin-packagejson": "^2.2.11",
     "prettier-plugin-sh": "^0.6.1",
     "prettier-plugin-solidity": "^1.0.0-beta.10",
     "prettier-plugin-sort-json": "^0.0.2",
@@ -51,6 +52,6 @@
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^7.0.1"
+    "@alexlit/lint-kit": "^9.0.1"
   }
 }
