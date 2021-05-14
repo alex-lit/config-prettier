@@ -4,9 +4,9 @@ module.exports = {
   tabWidth: 2,
   trailingComma: 'all',
 
-  ...require('./plugins/pug.js'),
-  ...require('./plugins/sort-json.js'),
-  ...require('./plugins/svelte.js'),
-  ...require('./plugins/vue.js'),
-  ...require('./plugins/xml.js'),
+  ...require('./plugins/pug'),
+  ...require('./plugins/sort-json'),
+  ...require('./plugins/svelte'),
+  ...require('./plugins/vue'),
+  ...require('./plugins/xml'),
 };
