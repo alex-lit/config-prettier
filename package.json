@@ -48,6 +48,7 @@
     "prettier-plugin-solidity": "^1.0.0-beta.10",
     "prettier-plugin-sort-json": "^0.0.2",
     "prettier-plugin-svelte": "^2.3.0",
+    "prettier-plugin-tailwind": "^2.2.10",
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {

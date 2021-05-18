@@ -16,3 +16,9 @@
         div
           CodeMentorComponent
 </template>
+
+<template>
+  <div class="container z-10 z-50 justify-center text-left md:text-center">
+    ...
+  </div>
+</template>
