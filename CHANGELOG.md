@@ -1,3 +1,10 @@
+# [1.0.0](https://github.com/alex-lit/config-prettier/compare/v0.12.1...v1.0.0) (2021-05-18)
+
+### Features
+
+- add tailwind plugin
+  ([68c0111](https://github.com/alex-lit/config-prettier/commit/68c01110c82c4c994db1cbac9c7683a7cc9b0857))
+
 ## [0.12.1](https://github.com/alex-lit/config-prettier/compare/v0.12.0...v0.12.1) (2021-05-14)
 
 # [0.12.0](https://github.com/alex-lit/config-prettier/compare/v0.11.2...v0.12.0) (2021-05-11)
