@@ -1,3 +1,10 @@
+# [2.0.0](https://github.com/alex-lit/config-prettier/compare/v1.3.0...v2.0.0) (2021-06-25)
+
+### Features
+
+- **plugin:** add jsdoc
+  ([49841ec](https://github.com/alex-lit/config-prettier/commit/49841ec2dc5289c6c569c1b00b974f39642ed1f5))
+
 # [1.3.0](https://github.com/alex-lit/config-prettier/compare/v1.2.4...v1.3.0) (2021-06-25)
 
 ## [1.2.4](https://github.com/alex-lit/config-prettier/compare/v1.2.3...v1.2.4) (2021-06-21)
