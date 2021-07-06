@@ -52,6 +52,6 @@
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^20.0.1"
+    "@alexlit/lint-kit": "^21.2.0"
   }
 }
