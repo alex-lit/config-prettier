@@ -1,3 +1,5 @@
+# [2.2.0](https://github.com/alex-lit/config-prettier/compare/v2.1.1...v2.2.0) (2021-07-08)
+
 ## 2.1.1 (2021-07-03)
 
 ### Bug Fixes
