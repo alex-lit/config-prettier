@@ -41,7 +41,7 @@
     "@prettier/plugin-php": "^0.17.2",
     "@prettier/plugin-pug": "^1.16.1",
     "@prettier/plugin-ruby": "^1.6.1",
-    "@prettier/plugin-xml": "^1.0.1",
+    "@prettier/plugin-xml": "^1.0.2",
     "prettier": "^2.3.2",
     "prettier-plugin-jsdoc": "^0.3.23",
     "prettier-plugin-packagejson": "^2.2.11",
@@ -52,6 +52,6 @@
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^21.5.4"
+    "@alexlit/lint-kit": "^22.0.0"
   }
 }
