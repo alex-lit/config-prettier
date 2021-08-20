@@ -1,3 +1,7 @@
+<script lang="ts">
+  /* eslint-disable vue/block-lang */
+</script>
+
 <template lang="pug">
 .container
   .row
