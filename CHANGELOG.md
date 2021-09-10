@@ -1,3 +1,5 @@
+## [3.2.1](https://github.com/alex-lit/config-prettier/compare/v3.2.0...v3.2.1) (2021-09-10)
+
 # [3.2.0](https://github.com/alex-lit/config-prettier/compare/v3.1.2...v3.2.0) (2021-09-09)
 
 ## [3.1.2](https://github.com/alex-lit/config-prettier/compare/v3.1.1...v3.1.2) (2021-09-02)
