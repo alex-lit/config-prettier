@@ -38,13 +38,13 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "@prettier/plugin-php": "^0.17.4",
-    "@prettier/plugin-pug": "^1.16.5",
+    "@prettier/plugin-php": "^0.17.5",
+    "@prettier/plugin-pug": "^1.16.6",
     "@prettier/plugin-ruby": "^1.6.1",
     "@prettier/plugin-xml": "^1.0.2",
     "prettier": "^2.4.0",
     "prettier-plugin-jsdoc": "^0.3.24",
-    "prettier-plugin-packagejson": "^2.2.11",
+    "prettier-plugin-packagejson": "^2.2.12",
     "prettier-plugin-sh": "^0.7.1",
     "prettier-plugin-solidity": "^1.0.0-beta.18",
     "prettier-plugin-sort-json": "^0.0.2",
