@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@prettier/plugin-php": "^0.17.5",
-    "@prettier/plugin-pug": "^1.16.7",
+    "@prettier/plugin-pug": "^1.17.1",
     "@prettier/plugin-ruby": "^1.6.1",
     "@prettier/plugin-xml": "^1.1.0",
     "prettier": "^2.4.1",
