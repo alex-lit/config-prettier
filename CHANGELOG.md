@@ -1,3 +1,10 @@
+# [4.6.0](https://github.com/alex-lit/config-prettier/compare/v4.5.0...v4.6.0) (2021-12-23)
+
+### Features
+
+- add sql plugin
+  ([17484ad](https://github.com/alex-lit/config-prettier/commit/17484adb63e740cf5c8802870fef0cd8d8ab6374))
+
 # [4.5.0](https://github.com/alex-lit/config-prettier/compare/v4.4.2...v4.5.0) (2021-12-14)
 
 ## [4.4.2](https://github.com/alex-lit/config-prettier/compare/v4.4.1...v4.4.2) (2021-12-09)
