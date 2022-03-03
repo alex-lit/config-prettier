@@ -6,5 +6,4 @@ module.exports = {
   jsdocSeparateReturnsFromParam: true,
   jsdocSeparateTagGroups: true,
   jsdocSingleLineComment: false,
-  jsdocVerticalAlignment: true,
 };
