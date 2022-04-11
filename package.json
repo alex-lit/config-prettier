@@ -43,13 +43,13 @@
     "@prettier/plugin-ruby": "^2.1.0",
     "@prettier/plugin-xml": "^2.0.1",
     "prettier": "^2.6.2",
-    "prettier-plugin-jsdoc": "^0.3.36",
+    "prettier-plugin-jsdoc": "^0.3.38",
     "prettier-plugin-packagejson": "^2.2.17",
     "prettier-plugin-sh": "^0.10.1",
     "prettier-plugin-solidity": "^1.0.0-dev.21",
     "prettier-plugin-sort-json": "^0.0.2",
     "prettier-plugin-sql": "^0.6.0",
-    "prettier-plugin-svelte": "^2.6.0",
+    "prettier-plugin-svelte": "^2.7.0",
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
