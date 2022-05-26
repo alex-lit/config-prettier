@@ -1,3 +1,5 @@
+## [8.3.1](https://github.com/alex-lit/config-prettier/compare/v8.3.0...v8.3.1) (2022-05-26)
+
 # [8.3.0](https://github.com/alex-lit/config-prettier/compare/v8.2.0...v8.3.0) (2022-05-25)
 
 # [8.2.0](https://github.com/alex-lit/config-prettier/compare/v8.1.0...v8.2.0) (2022-05-16)
