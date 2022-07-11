@@ -47,7 +47,7 @@
     "prettier-plugin-jsdoc": "^0.3.38",
     "prettier-plugin-packagejson": "^2.2.18",
     "prettier-plugin-sh": "^0.12.6",
-    "prettier-plugin-solidity": "^1.0.0-dev.21",
+    "prettier-plugin-solidity": "^1.0.0-dev.22",
     "prettier-plugin-sort-json": "^0.0.2",
     "prettier-plugin-sql": "^0.9.0",
     "prettier-plugin-svelte": "^2.7.0",
