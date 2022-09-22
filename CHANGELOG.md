@@ -1,3 +1,5 @@
+## [9.9.2](https://github.com/alex-lit/config-prettier/compare/v9.9.1...v9.9.2) (2022-09-22)
+
 ## [9.9.1](https://github.com/alex-lit/config-prettier/compare/v9.9.0...v9.9.1) (2022-09-21)
 
 # [9.9.0](https://github.com/alex-lit/config-prettier/compare/v9.8.0...v9.9.0) (2022-09-07)
