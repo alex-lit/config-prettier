@@ -38,7 +38,7 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "@prettier/plugin-php": "^0.19.1",
+    "@prettier/plugin-php": "^0.19.2",
     "@prettier/plugin-pug": "^2.3.0",
     "@prettier/plugin-ruby": "^3.2.2",
     "@prettier/plugin-xml": "^2.2.0",
@@ -46,7 +46,7 @@
     "prettier-plugin-jsdoc": "^0.4.2",
     "prettier-plugin-packagejson": "^2.3.0",
     "prettier-plugin-sh": "^0.12.8",
-    "prettier-plugin-solidity": "^1.0.0-beta.24",
+    "prettier-plugin-solidity": "^1.0.0-rc.1",
     "prettier-plugin-sort-json": "^0.0.3",
     "prettier-plugin-sql": "^0.12.1",
     "prettier-plugin-svelte": "^2.8.0",
