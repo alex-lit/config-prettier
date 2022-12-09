@@ -42,7 +42,7 @@
     "@prettier/plugin-pug": "^2.3.0",
     "@prettier/plugin-ruby": "^3.2.2",
     "@prettier/plugin-xml": "^2.2.0",
-    "prettier": "^2.8.0",
+    "prettier": "^2.8.1",
     "prettier-plugin-jsdoc": "^0.4.2",
     "prettier-plugin-packagejson": "^2.3.0",
     "prettier-plugin-sh": "^0.12.8",
