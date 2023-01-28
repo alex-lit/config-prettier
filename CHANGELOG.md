@@ -1,3 +1,5 @@
+# [10.2.0](https://github.com/alex-lit/config-prettier/compare/v10.1.0...v10.2.0) (2023-01-28)
+
 # [10.1.0](https://github.com/alex-lit/config-prettier/compare/v10.0.2...v10.1.0) (2023-01-18)
 
 ## [10.0.2](https://github.com/alex-lit/config-prettier/compare/v10.0.1...v10.0.2) (2023-01-14)
