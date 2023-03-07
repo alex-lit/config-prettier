@@ -1,3 +1,33 @@
+## 10.4.1 (2023-03-07)
+
+### Bug Fixes
+
+- add plugins to package
+  ([2b29a44](https://github.com/alex-lit/config-prettier/commit/2b29a445c14933d35c6bdcb8846847145722c0fc))
+
+### Features
+
+- add pug plugin
+  ([06a5b21](https://github.com/alex-lit/config-prettier/commit/06a5b21db67258e510a6d3c1060b31772b543d7d))
+- add ruby plugin
+  ([1aa15f9](https://github.com/alex-lit/config-prettier/commit/1aa15f977f05a80a83e8caf1324249bc4429bbdd))
+- add sql plugin
+  ([17484ad](https://github.com/alex-lit/config-prettier/commit/17484adb63e740cf5c8802870fef0cd8d8ab6374))
+- add tailwind plugin
+  ([68c0111](https://github.com/alex-lit/config-prettier/commit/68c01110c82c4c994db1cbac9c7683a7cc9b0857))
+- add xml plugin
+  ([dbee926](https://github.com/alex-lit/config-prettier/commit/dbee926852ddb5e5c1900389975ff70c967f9107))
+- **plugin:** add jsdoc
+  ([49841ec](https://github.com/alex-lit/config-prettier/commit/49841ec2dc5289c6c569c1b00b974f39642ed1f5))
+- **plugin:** add solidity
+  ([c89793b](https://github.com/alex-lit/config-prettier/commit/c89793b87a953dee52ddfb9de9c54a34a2b35018))
+- **plugin:** add sort-json
+  ([bd36242](https://github.com/alex-lit/config-prettier/commit/bd3624272063b390647149cb2555ddec6a14c33c))
+- **plugin:** add svelte
+  ([c44a5cb](https://github.com/alex-lit/config-prettier/commit/c44a5cb0d7d86546e01acd1a548ed82f757e2d28))
+- **plugin:** add twig
+  ([661a8f1](https://github.com/alex-lit/config-prettier/commit/661a8f193aff04bc60f246d6affcdd748d0de932))
+
 # [10.3.0](https://github.com/alex-lit/config-prettier/compare/v10.2.2...v10.3.0) (2023-03-01)
 
 ## [10.2.2](https://github.com/alex-lit/config-prettier/compare/v10.2.1...v10.2.2) (2023-02-09)
