@@ -40,19 +40,19 @@
   "dependencies": {
     "@prettier/plugin-php": "^0.19.6",
     "@prettier/plugin-pug": "^2.5.1",
-    "@prettier/plugin-ruby": "^3.2.2",
-    "@prettier/plugin-xml": "^2.2.0",
-    "prettier": "^2.8.8",
+    "@prettier/plugin-ruby": "^4.0.1",
+    "@prettier/plugin-xml": "^3.1.0",
+    "prettier": "^3.0.0",
     "prettier-plugin-jsdoc": "^0.4.2",
-    "prettier-plugin-packagejson": "^2.4.3",
-    "prettier-plugin-sh": "^0.12.8",
+    "prettier-plugin-packagejson": "^2.4.5",
+    "prettier-plugin-sh": "^0.13.0",
     "prettier-plugin-solidity": "^1.1.3",
     "prettier-plugin-sort-json": "^1.0.0",
-    "prettier-plugin-sql": "^0.14.0",
+    "prettier-plugin-sql": "^0.15.1",
     "prettier-plugin-svelte": "^2.10.1",
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^94.0.0"
+    "@alexlit/lint-kit": "^97.0.0"
   }
 }
