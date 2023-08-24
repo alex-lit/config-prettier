@@ -9,7 +9,6 @@
  * @example
  *   <h1>test</h1>;
  *
- *
  * @type {React.FC<{ message: string }>}
  *
  * @param x Test
