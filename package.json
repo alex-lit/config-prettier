@@ -38,7 +38,7 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "@prettier/plugin-php": "^0.19.7",
+    "@prettier/plugin-php": "^0.20.1",
     "@prettier/plugin-pug": "^3.0.0",
     "@prettier/plugin-ruby": "^4.0.2",
     "@prettier/plugin-xml": "^3.2.0",
