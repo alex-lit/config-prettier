@@ -42,17 +42,17 @@
     "@prettier/plugin-pug": "^3.0.0",
     "@prettier/plugin-ruby": "^4.0.2",
     "@prettier/plugin-xml": "^3.2.0",
-    "prettier": "^3.0.2",
+    "prettier": "^3.0.3",
     "prettier-plugin-jsdoc": "^1.0.1",
     "prettier-plugin-packagejson": "^2.4.5",
     "prettier-plugin-sh": "^0.13.1",
     "prettier-plugin-solidity": "^1.1.3",
-    "prettier-plugin-sort-json": "^1.0.0",
+    "prettier-plugin-sort-json": "^3.0.1",
     "prettier-plugin-sql": "^0.15.1",
     "prettier-plugin-svelte": "^3.0.3",
     "prettier-plugin-twig-melody": "^0.4.6"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^100.0.2"
+    "@alexlit/lint-kit": "^100.1.1"
   }
 }
